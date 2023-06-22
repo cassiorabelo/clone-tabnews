@@ -1,2 +1,2 @@
 # clone-tabnews
-Práticas propostas no curso.dev do Filipe Deschamps.
+Práticas propostas no https://curso.dev do Filipe Deschamps.
